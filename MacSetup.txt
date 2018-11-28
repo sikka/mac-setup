@@ -1,0 +1,13 @@
+#setup on a new mac
+
+Install homebrew -
+
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+Install node and npm - brew install node
+
+Install Iterm2
+Install Atom, install terminal package
+
+Download and install JDK - https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+Install intelliJ.

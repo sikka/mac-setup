@@ -11,3 +11,9 @@ Install Atom, install terminal package
 
 Download and install JDK - https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 Install intelliJ.
+
+Install oh my zsh
+Copy the .zshrc here - https://gist.githubusercontent.com/sikka/dfa087a40f8c0dcd4c3f2ff67bcd557d/raw/50458c5ba39e204d80f1e4b17a9657a9ada1fb67/.zshrc
+and put it under ~/.zshrc on your mac
+
+Install shell integration for iterm2
